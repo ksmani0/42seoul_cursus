@@ -10,6 +10,7 @@ Hello! I am a cadet studying in 42Seoul 🍀
 |1|ft_printf|c|114|
 |1|netwhat|-|100|
 |2|miniRT|c|109|
-|2|ft_server|shell script|100|
+|2|ft_server|shell script / docker|100|
 |3|push_swap|c|84|
 |3|libasm|c / assembly language|100|
+|3|ft_services|shell script / docker / minikube|100|
