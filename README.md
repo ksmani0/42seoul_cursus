@@ -14,3 +14,4 @@ Hello! I am a cadet studying in 42Seoul 🍀
 |3|push_swap|c|84|
 |3|libasm|c / assembly language|100|
 |3|ft_services|shell script / docker / minikube|100|
+|3|philosopher|c|100|
